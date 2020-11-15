@@ -8,9 +8,9 @@
 export default {
   viewId: '229822278',
   auth: {
-    projectId: 'cyfs-api',
+    projectId: 'atlantean-study-295701',
     privateKey: process.env.PRIVATE_KEY,
-    clientEmail: 'blog-ga@cyfs-api.iam.gserviceaccount.com',
+    clientEmail: 'ga-hit-chenyfan@atlantean-study-295701.iam.gserviceaccount.com',
   },
   allFilter: ['/'],
   startDate: '2010-01-01',
